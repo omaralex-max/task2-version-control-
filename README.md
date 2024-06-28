@@ -45,5 +45,3 @@
 
 <img src="https://tse1.mm.bing.net/th?id=OIP.RgQ2nbSMrzEfBlEjDT3hmwHaFh&pid=Api&P=0&h=220" alt="img">
 
-<img src="/home/omaralex/Documents/task2-vc" alt="img">
-     
