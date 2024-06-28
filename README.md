@@ -24,3 +24,24 @@
         git checkout branch_name
         
         git stash pop
+
+>>Q3 how to list tags ?
+        
+        git tag
+
+>> Q4 how to delete tag locally and remotely ?
+
+    localy 
+        
+        git tag -d "tag name"
+
+    remotly
+
+        git push origin --delete "tag name"
+
+>> add image to readme file
+
+     
+
+     <img src="https://tse1.mm.bing.net/th?id=OIP.RgQ2nbSMrzEfBlEjDT3hmwHaFh&pid=Api&P=0&h=220" alt="img">
+     
